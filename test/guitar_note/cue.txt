@@ -1,0 +1,7 @@
+guitar_C
+guitar_G
+guitar_Am
+guitar_Em
+guitar_F
+guitar_C2
+guitar_G2
